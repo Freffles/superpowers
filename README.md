@@ -71,6 +71,12 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 
 **Detailed docs:** [docs/README.opencode.md](docs/README.opencode.md)
 
+### Google Antigravity (manual setup)
+
+Antigravity does not currently have a published Superpowers plugin flow in this repo, but you can still use Superpowers by loading the skill set and bootstrap instructions manually.
+
+**Guide:** [docs/README.google-antigravity.md](docs/README.google-antigravity.md)
+
 ### Verify Installation
 
 Start a new session in your chosen platform and ask for something that should trigger a skill (for example, "help me plan this feature" or "let's debug this issue"). The agent should automatically invoke the relevant superpowers skill.
